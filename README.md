@@ -32,7 +32,7 @@ requirements.txt # List of required Python packages
 
 1. Clone the repository
 ```bash
-git clone https://github.com/macrolina/password-manager.git
+git clone https://github.com/macrolina/Password-Manager.git
 ```
 
 2. Install dependencies
