@@ -1,0 +1,4 @@
+CtkMessagebox==2.7
+cryptography==49.0.0
+SQLAlchemy==2.0.45
+customtkinter==5.2.2
