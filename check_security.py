@@ -66,11 +66,11 @@ class Password:
         entropy = round(entropy, 1)
 
         # Checking of entropy bits
-        if entropy<50:
+        if entropy<=50:
             return "Weak password"
-        elif entropy<75:
+        elif 110>entropy>=75:
             return "Medium password"
-        elif entropy>110:
+        elif entropy>=110:
             return "Strong password"
 
     @staticmethod # using this method so we can access function without creating class object
